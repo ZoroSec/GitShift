@@ -1,0 +1,21 @@
+{
+  "name": "gitshift",
+  "owner": {
+    "name": "ZoroSec"
+  },
+  "metadata": {
+    "description": "GitShift marketplace — shift routine git chores onto a cheap Haiku subagent.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "gitshift",
+      "source": "./plugins/gitshift",
+      "description": "Routes routine git chores (commit, pull, push, status/diff) to a cheap Haiku subagent instead of your main model, then hands control straight back.",
+      "version": "0.1.0",
+      "author": {
+        "name": "ZoroSec"
+      }
+    }
+  ]
+}

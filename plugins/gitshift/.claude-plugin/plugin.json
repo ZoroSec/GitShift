@@ -1,0 +1,12 @@
+{
+  "name": "gitshift",
+  "version": "0.1.0",
+  "description": "Routes routine git chores (commit, pull, push, status/diff) to a cheap Haiku subagent instead of your main model, then hands control straight back.",
+  "author": {
+    "name": "ZoroSec"
+  },
+  "homepage": "https://github.com/ZoroSec/GitShift",
+  "repository": "https://github.com/ZoroSec/GitShift",
+  "license": "MIT",
+  "keywords": ["git", "github", "commit", "cost", "haiku", "subagent"]
+}
